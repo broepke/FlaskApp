@@ -12,4 +12,4 @@
 
 ## What is Flask?
 
-From [The Pallets Projects](https://palletsprojects.com/p/flask/) Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around [Werkzeug](https://palletsprojects.com/p/werkzeug/) and [Jinja](https://palletsprojects.com/p/jinja/) and has become one of the most popular Python web application frameworks.  
+From [The Pallets Projects](https://palletsprojects.com/p/flask/), Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around [Werkzeug](https://palletsprojects.com/p/werkzeug/) and [Jinja](https://palletsprojects.com/p/jinja/) and has become one of the most popular Python web application frameworks.  
