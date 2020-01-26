@@ -20,6 +20,7 @@ I spend a majority of my time on **Data Science** related tasks using Python wit
 * Flask WTForms - `pip install flask-wtf`
 * Flask-SQLAlchemy - `pip install flask-sqlalchemy`
 * Flast-Migrate - `pip install flask-migrate`
+* Flask-Login - `pip install flask-login`
 
 ## What is Flask?
 
