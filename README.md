@@ -11,7 +11,7 @@ I spend a majority of my time on **Data Science** related tasks using Python wit
  * Run the application with `flask run`.
  * This will be served up locally at `http://127.0.0.1:5000/`.
  * `CTRL+C` to kill the web server.
- * This is predicated by having an environment variable set to `FLASK_APP=microblog.py`.  This is done via the `.flaskenv` file in the root directory and set via the Python `python-dotenv` package. (Nothing needed after that's set).
+ * You can run a dummy local test SMTP server with the following command `python -m smtpd -n -c DebuggingServer localhost:8025`.  _Note: You will need to make sure the MAIL_SERVER and MAIL_PORT environment variables are set_
 
 ## Dependencies
 
@@ -21,6 +21,8 @@ I spend a majority of my time on **Data Science** related tasks using Python wit
 * Flask-SQLAlchemy - `pip install flask-sqlalchemy`
 * Flast-Migrate - `pip install flask-migrate`
 * Flask-Login - `pip install flask-login`
+* Flask Mail - `pip install flask-mail`
+* Python Java Web Tokens - `pip install pyjwt`
 
 ## What is Flask?
 
