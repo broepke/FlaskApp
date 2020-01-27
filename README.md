@@ -23,6 +23,7 @@ I spend a majority of my time on **Data Science** related tasks using Python wit
 * Flask-Login - `pip install flask-login`
 * Flask Mail - `pip install flask-mail`
 * Python Java Web Tokens - `pip install pyjwt`
+* Bootstrap - `pip install flask-bootstrap`
 
 ## What is Flask?
 
