@@ -25,6 +25,7 @@ I spend a majority of my time on **Data Science** related tasks using Python wit
 * Python Java Web Tokens - `pip install pyjwt`
 * Bootstrap - `pip install flask-bootstrap`
 * Flask Moment - `pip install flask-moment`
+* Flask Babel - `pip install flask-babel`
 
 ## What is Flask?
 
